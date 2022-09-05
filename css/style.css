@@ -1,0 +1,15 @@
+.profile-pic {
+    max-width: 250px;
+}
+
+.about {
+    font-weight: 600;
+    font-size: 120%;
+    text-align: justify;
+    padding: 12px;
+}
+
+.my-certificates a {
+    font-size: 80%;
+    text-align: left;
+}
